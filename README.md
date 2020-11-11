@@ -12,16 +12,16 @@
  - [ ] if user logged in dispaly counter otherwise don't
  - [ ] intially user will be logged out(islogged: false) and (counter: 0)
  - [ ] should have ablility to change initial state.
- - [ ] render a button which have name='Login'
- - [ ] By clicking on 'Login' button show the counter and change button which have name='Logout'
- - [ ] By clicking on 'Logout' button remove the counter from dom and change button which have name='Login'
+ - [ ] render a button which have ```name='Login'```
+ - [ ] By clicking on 'Login' button show the counter and change button which have ```name='Logout'```
+ - [ ] By clicking on 'Logout' button remove the counter from dom and change button which have ```name='Login'```
  - [ ] render a input field which will take input a number.
- - [ ] counter will be updated by click three buttons '+' / '-'/ 'Add amount'.
+ - [ ] counter will be updated by click three buttons ```+``` / ```-```/ ```Add amount```.
  - [ ] 'Add amount' will increase the value of counter by input field value.
  - [ ] '+' will increase counter by 1
  - [ ] '-' will decrease counter by 1
  - [ ] '+', '-' and 'Add amount' buttons should be visible.
- - [ ] display current counter value inside a tag which have attribute data-testid='counter'
+ - [ ] display current counter value inside a tag which have attribute ```data-testid='counter```'
  
 
  
