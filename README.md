@@ -7,21 +7,21 @@
  ## Acceptance Criteria
  - [ ] Overall state should be an object with keys as counter and islogged.
  - [ ] islogged tell whether is user is logged in or out depending on the value true and false respectively.
- - [ ] counter will tell current value which will be displayed on the screen.
- - [ ] value of counter will be only integers (+ve / -ve / 0).
- - [ ] if user logged in dispaly counter otherwise don't
- - [ ] intially user will be logged out(islogged: false) and (counter: 0)
- - [ ] should have ablility to change initial state.
- - [ ] render a button which have ```name='Login'```
+ - [ ] Counter will tell current value which will be displayed on the screen.
+ - [ ] Value of counter will be only integers (+ve / -ve / 0).
+ - [ ] If user logged in dispaly counter otherwise don't
+ - [ ] Intially user will be logged out(islogged: false) and (counter: 0)
+ - [ ] Should have ablility to change initial state.
+ - [ ] Render a button which have ```name='Login'```
  - [ ] By clicking on 'Login' button show the counter and change button which have ```name='Logout'```
  - [ ] By clicking on 'Logout' button remove the counter from dom and change button which have ```name='Login'```
- - [ ] render a input field which will take input a number.
- - [ ] counter will be updated by click three buttons ```+``` / ```-```/ ```Add amount```.
+ - [ ] Render a input field which will take input a number.
+ - [ ] Counter will be updated by click three buttons ```+``` / ```-```/ ```Add amount```.
  - [ ] 'Add amount' will increase the value of counter by input field value.
  - [ ] '+' will increase counter by 1
  - [ ] '-' will decrease counter by 1
  - [ ] '+', '-' and 'Add amount' buttons should be visible.
- - [ ] display current counter value inside a tag which have attribute ```data-testid='counter```'
+ - [ ] Display current counter value inside a tag which have attribute ```data-testid='counter```'
  
 
  
